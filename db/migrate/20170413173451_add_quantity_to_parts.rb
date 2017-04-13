@@ -4,4 +4,4 @@ class AddQuantityToParts < ActiveRecord::Migration[5.0]
       t.integer :quantity
     end
   end
-end #generated migration in rails, inserted details afterwards. 
+end #generated migration in rails, inserted details afterwards.
